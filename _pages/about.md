@@ -10,7 +10,10 @@ comments: true
 
 <p><a href="https://evergladeslaw.org/about/">Everglades Law Center</a> was founded to provide high-quality legal assistance to advocate, negotiate, and litigate to protect and restore the ecosystems of the Florida Everglades. From its headwaters north of Lake Okeechobee to the southern tip of the Florida peninsula, the Florida Everglades is an integral part of our ecology, culture, and economy. Working with more than thirty national, state and local environmental and conservation groups, our firm utilizes litigation, advocacy and policy development to protect and sustain this region’s unique and irreplaceable ecosystems and communities. Our attorneys are uniquely positioned throughout the Everglades ecosystem and handle a wide range of environmental matters, including land use, wetlands permitting, endangered species, public lands, and sustainable energy development.</p>
 
-<img class="ELC1.mov" src="assets/images/ELC1.mov" alt="Everglades Law Center Video"</p>
+<a href="https://1drv.ms/v/s!AmHWcosEJ55Xge8g4s6REJA0ore3lA?e=hgikHd"</a> 
+
+<img class="ELC1.mov" src="assets/images/ELC1.mov" alt="Everglades Law Center Video">
+
 
 <h4>Social Media Toolkit</h4>
 
