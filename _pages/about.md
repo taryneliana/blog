@@ -12,6 +12,8 @@ comments: true
 
 <iframe src="https://onedrive.live.com/embed?cid=579E27048B72D661&resid=579E27048B72D661%2130624&authkey=ADjpHjMGEdx6pi4" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+<embed id="plugin" type="application/x-google-chrome-pdf" original-url="https://evergladeslaw.org/wp-content/uploads/2022/12/Everglades-Law-Annual-Report-2021-2022_final.pdf" src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/2d973852-cfe4-4521-ad0a-5088df348345" background-color="0xFFE6E6E6" first-page-separator="4" style="position: relative !important; top: 41px; min-height: calc(100% - 41px);" javascript="allow" stream_timestamp="1736766135889" embed-top-offset="41" width="538" height="9960" full-frame="" pdfviewrecoveryenabled="" pdffreetextenabled="" data-docheight="9956" data-docwidth="538">
+
 <h4>Social Media Toolkit</h4>
 
 <p>Please, share our <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">social media toolkit</a>.</p>
@@ -31,6 +33,9 @@ comments: true
 
 <a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-danger">Donate</a> 
 <a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a>
+
+
+
 
 </div>
 </div>
