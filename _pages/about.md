@@ -30,7 +30,9 @@ comments: true
 <p>The Everglades Law Center is a nonprofit organization that depends on grants and individual contributions to fund our work. Contribute to help ensure the future of Florida’s wetlands, wildlife, and wild places. <a target="_blank" href="https://evergladeslaw.org/donate/">Donate<i class="fab fa-github"></i></a>.</p>
 
 <a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-danger">Donate</a> 
-<a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a>
+<a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a> 
+<a target="_blank" href="https://evergladeslaw.org/about/board/" class="btn btn-warning">Our Board</a> 
+< target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
 
 
 
