@@ -12,9 +12,6 @@ comments: true
 
 <iframe src="https://onedrive.live.com/embed?cid=579E27048B72D661&resid=579E27048B72D661%2130624&authkey=ADjpHjMGEdx6pi4" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<img class="ELC1.mov" src="assets/images/ELC1.mov" alt="Everglades Law Center Video">
-
-
 <h4>Social Media Toolkit</h4>
 
 <p>Please, share our social media toolkit <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a>.</p>
@@ -28,9 +25,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Donate</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>The Everglades Law Center is a nonprofit organization that depends on grants and individual contributions to fund our work. Contribute to help ensure the future of Florida’s wetlands, wildlife, and wild places. <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
