@@ -14,11 +14,12 @@ comments: true
 
 <h4>Social Media Toolkit</h4>
 
-<p>Please, share our <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">social media toolkit</a>.</p>
+<p>Please, share our <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">social media toolkit</a> to spread our commitment to the stories, the people, and the ideas that will make our mission possible.</p>
 
 <h4>Contact Us</h4>
 
 <p>We would love to hear from you! Please feel free to reach out <a href="https://evergladeslaw.org/contact/">here</a>!</p> 
+<p>For all of this, Everglades Law Center relies on you. We count on the generosity of foundations, major donors, corporate and nonprofit partners, and a growing community of members. Florida is the most important story of our time. Your support helps us show the path to a future on supporting the state of Florida and its environment.</p> 
 
 <a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our Partners</a>
 <a target="_blank" href="https://evergladeslaw.org/about/board/" class="btn btn-warning">Our Board</a> 
