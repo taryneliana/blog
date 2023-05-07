@@ -13,7 +13,7 @@ comments: true
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Please, share our social media toolkit <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
