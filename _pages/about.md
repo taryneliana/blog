@@ -20,6 +20,8 @@ comments: true
 
 <p>We would love to hear from you! Please feel free to reach out <a href="https://evergladeslaw.org/contact/">here</a>!</p> 
 
+<a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
+
 </div>
 
 <div class="col-md-4">
