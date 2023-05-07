@@ -32,7 +32,7 @@ comments: true
 <a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-danger">Donate</a> 
 <a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a> 
 <a target="_blank" href="https://evergladeslaw.org/about/board/" class="btn btn-warning">Our Board</a> 
-< target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
+<a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
 
 
 
