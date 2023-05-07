@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Us
 permalink: /about
 comments: true
 ---
@@ -8,9 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Everglades Law Center was founded to provide high-quality legal assistance to advocate, negotiate, and litigate to protect and restore the ecosystems of the Florida Everglades 
-
-From its headwaters north of Lake Okeechobee to the southern tip of the Florida peninsula, the Florida Everglades is an integral part of our ecology, culture, and economy</p>
+<p><a href="https://evergladeslaw.org/about/">Everglades Law Center</a> was founded to provide high-quality legal assistance to advocate, negotiate, and litigate to protect and restore the ecosystems of the Florida Everglades. From its headwaters north of Lake Okeechobee to the southern tip of the Florida peninsula, the Florida Everglades is an integral part of our ecology, culture, and economy. Working with more than thirty national, state and local environmental and conservation groups, our firm utilizes litigation, advocacy and policy development to protect and sustain this region’s unique and irreplaceable ecosystems and communities. Our attorneys are uniquely positioned throughout the Everglades ecosystem and handle a wide range of environmental matters, including land use, wetlands permitting, endangered species, public lands, and sustainable energy development.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
