@@ -20,7 +20,9 @@ comments: true
 
 <p>We would love to hear from you! Please feel free to reach out <a href="https://evergladeslaw.org/contact/">here</a>!</p> 
 
-<a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
+<a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our Partners</a>
+<a target="_blank" href="https://evergladeslaw.org/about/board/" class="btn btn-warning">Our Board</a> 
+<a target="_blank" href="https://evergladeslaw.org/wp-content/uploads/2022/12/Everglades-Law-Annual-Report-2021-2022_final.pdf" class="btn btn-warning">2021 Annual Report</a> 
 
 </div>
 
@@ -33,11 +35,6 @@ comments: true
 
 <a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-danger">Donate</a> 
 <a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a> 
-<a target="_blank" href="https://evergladeslaw.org/about/board/" class="btn btn-warning">Our Board</a> 
-<a target="_blank" href="https://evergladeslaw.org/partners/" class="btn btn-warning">Our partners</a>
-
-
-
 
 </div>
 </div>
