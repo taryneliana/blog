@@ -27,9 +27,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Donate</h5>
 
-<p>The Everglades Law Center is a nonprofit organization that depends on grants and individual contributions to fund our work. Contribute to help ensure the future of Florida’s wetlands, wildlife, and wild places. <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>The Everglades Law Center is a nonprofit organization that depends on grants and individual contributions to fund our work. Contribute to help ensure the future of Florida’s wetlands, wildlife, and wild places. <a target="_blank" href="https://evergladeslaw.org/donate/">Donate<i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-danger">Donate</a> 
+<a target="_blank" href="https://evergladeslaw.org/about/" class="btn btn-warning">Learn More</a>
 
 </div>
 </div>
