@@ -14,11 +14,11 @@ comments: true
 
 <h4>Social Media Toolkit</h4>
 
-<p>Please, share our social media toolkit <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a>.</p>
+<p>Please, share our <a href="https://www.canva.com/design/DAFdr77Fegg/tDbLeFL1ies-PytOZ95iVA/view?utm_content=DAFdr77Fegg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">social media toolkit</a>.</p>
 
 <h4>Contact Us</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>We would love to hear from you! Please feel free to reach out <a href="https://evergladeslaw.org/contact/">here</a>!</p> 
 
 </div>
 
