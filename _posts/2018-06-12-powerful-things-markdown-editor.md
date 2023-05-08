@@ -2,7 +2,7 @@
 layout: post
 title:  "A Win for Everglades Restoration"
 author: sal
-categories: [ Win, Everglades Restoration ]
+categories: [ Water and Wetlands, Everglades Restoration ]
 image: assets/images/AdobeStock_412018772.jpeg
 ---
 
