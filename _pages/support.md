@@ -16,7 +16,8 @@ comments: true
 
 <div class="sticky-top sticky-top-80">
 <h5>Join Our Team</h5>
-<p>Everglades Law Center is a community with more than thirty national, state and local environmental and conservation groups. Supporters of the Everglades Law Center believe in our mission, litigation, and our audience — an engaged community that actively seek solutions to protect and sustain South Florida’s unique and irreplaceable ecosystems and communities.</p> 
+
+ <p>Everglades Law Center is a community with more than thirty national, state and local environmental and conservation groups. Supporters of the Everglades Law Center believe in our mission, litigation, and our audience — an engaged community that actively seek solutions to protect and sustain South Florida’s unique and irreplaceable ecosystems and communities.</p> 
 
  <a target="_blank" href="https://evergladeslaw.org/about/work-with-us/" class="btn btn-warning">Work With Us</a> 
   
