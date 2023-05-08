@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Win for Everglades Restoration"
-author: Sal
+author: sal
 categories: [ Win, Everglades Restoration ]
 image: assets/images/AdobeStock_412018772.jpeg
 ---
