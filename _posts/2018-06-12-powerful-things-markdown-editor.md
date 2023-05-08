@@ -3,7 +3,7 @@ layout: post
 title:  "A Win for Everglades Restoration"
 author: sal
 categories: [ Water and Wetlands, Everglades Restoration ]
-image: assets/images/AdobeStock_412018772.jpeg
+image: assets/images/elc_2.jpg
 ---
 
 <p> On March 21, 2023, a federal district court entered an Order On Cross Motions For Summary Judgment in the Sugar Industry’s legal challenge to the Everglades Agricultural Area (“EAA”) Reservoir and Stormwater Treatment Area (“STA”). The court ruled in favor of the U.S. Army Corps of Engineers and against the Sugar Industry Plaintiffs on both their Water Resource Development Act 2000 (“WRDA 2000”) Savings Clause claim and their National Environmental Policy Act (“NEPA”) claim. 
