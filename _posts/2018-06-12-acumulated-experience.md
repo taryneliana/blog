@@ -17,3 +17,12 @@ The Urban Development Boundary was established to ensure smart growth based on n
 Elizabeth Fata Carpenter,
 Managing Attorney, Everglades Law Center
 
+
+## <a href="https://evergladeslaw.org/newsletter/)">Join Our Email List</a> 
+
+
+<a target="_blank" href="https://evergladeslaw.org/wp-content/uploads/2022/12/2022-12-2-Petition-for-Administrative-Hearing.pdf" class="btn btn-warning">Everglades Law Center's Petition for Administrative Hearing</a> 
+
+<a target="_blank" href="https://evergladeslaw.org/wp-content/uploads/2022/12/Press-Release-Miami-Dade-Resident-Files-Legal-Challenge_Dec.-1.pdf" class="btn btn-warning">Press Release</a>
+
+
