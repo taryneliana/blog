@@ -14,7 +14,6 @@ comments: true
 <a target="_blank" href="https://evergladeslaw.org/donate/" class="btn btn-warning">Donate</a>
 
 <div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
 <h5>Join Our Team</h5>
 
