@@ -3,7 +3,7 @@ layout: post
 title:  "Everglades Law Center Advocates for Biscayne Bay Restoration"
 author: sal
 categories: [ Water and Wetlands, Biscayne Bay, Biscayne Bay Southeastern Everglades Restoration, Comprehensive Everglades Restoration Plan, Audubon Florida, Tropical Audubon Society ]
-image: assets/images/AdobeStock_378425176.jpeg
+image: assets/images/elizabeth.jpg
 featured: true
 ---
 <p>The Biscayne Bay Southeastern Everglades Restoration (“BBSEER”) Project seeks to combine several projects originally proposed in the 1999 Comprehensive Everglades Restoration Plan (“CERP”) with a focus on restoring more natural, clean freshwater flows into southeastern Everglades wetlands and Biscayne Bay.  ELC participates in Project Delivery Team meetings and collaborates with partners to help ensure the project results in significant benefits to Biscayne Bay, but not at the expense of future projects and increased flow to Florida Bay and Everglades National Park.</p>
