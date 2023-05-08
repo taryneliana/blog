@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
+title:  "We're fighting to Protect Smart Growth in Miami-Dade County"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/15.jpg
+categories: [ Land Use, Urban Development Boundary ]
+image: assets/images/AdobeStock_99119155.jpeg 
 ---
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
