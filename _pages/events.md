@@ -14,4 +14,4 @@ comments: true
   
 <p>An alliance of 60+ local, state, and national conservation organizations dedicated to full restoration of America's Everglades.</p>
 
-<a target="_blank" href="[https://evergladeslaw.org/about/](https://static.wixstatic.com/media/599879_621a109fd3824a008a6ad3e442b3d588~mv2.png/v1/crop/x_0,y_36,w_1218,h_1509/fill/w_259,h_321,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2023.png)" class="btn btn-warning">2023 Everglades Coalition Conference</a> 
+<a target="_blank" href="https://www.evergladescoalition.org/_files/ugd/599879_b489ea1669e24eeabccffb749a8e5a39.pdf" class="btn btn-warning">2023 Everglades Coalition Conference</a> 
