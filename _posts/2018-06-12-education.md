@@ -4,12 +4,11 @@ title:  "A Win for Better Growth Management."
 author: sal
 categories: [ Land Use, Win ]
 image: assets/images/AdobeStock_238254274.jpeg
+beforetok: "Collier County and Collier Enterprises essentially argued that they could ignore the impacts of traffic and the financial burden to taxpayer resources associated with Rivergrass Village. The DCA clearly stated that this assertion was wrong. While they wanted to disregard these issues, the Court of Appeal disagreed and has sent Rivergrass back to trial at circuit court.
+Conservancy of Southwest Florida President and CEO, Rob Moher"
+tok: true 
 ---
 <p>The Second District Court of Appeal (DCA) confirmed the Conservancy of Southwest Florida’s legal right to present evidence at the Circuit Court level against the Rivergrass Village Development Order with regard to traffic impacts and fiscal neutrality. The court’s ruling will allow the Conservancy to bring forth these claims against Rivergrass Village, which were incorrectly excluded by the lower court.
- 
-"Collier County and Collier Enterprises essentially argued that they could ignore the impacts of traffic and the financial burden to taxpayer resources associated with Rivergrass Village. The DCA clearly stated that this assertion was wrong. While they wanted to disregard these issues, the Court of Appeal disagreed and has sent Rivergrass back to trial at circuit court.
-
- - Conservancy of Southwest Florida President and CEO, Rob Moher"
 
 Everglades Law Center was glad to represent Tropical Audubon Society and Friends of the Everglades in supporting the Conservancy as Friends of the Court in this case. We filed a brief to explain its far reaching implications and to protect the rights of citizens and organizations to support smart growth and environmental protection components of county comprehensive plans, including those related to restoration and protection of the Everglades. Now the Conservancy will get the chance to make critical arguments in court.</p> 
 
